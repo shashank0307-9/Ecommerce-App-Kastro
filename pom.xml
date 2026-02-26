@@ -4,7 +4,7 @@
   <groupId>com</groupId>
   <artifactId>EcommerceApp</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>EcommerceApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
@@ -12,7 +12,7 @@
     <!-- Updated JUnit to JUnit 5 -->
     <dependency>
       <groupId>org.junit.jupiter</groupId>
-      <artifactId>ecommerce</artifactId>
+      <artifactId>junit-jupiter-api</artifactId>
       <version>5.10.0</version>
       <scope>test</scope>
     </dependency>
